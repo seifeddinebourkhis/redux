@@ -1,0 +1,7 @@
+.post-map {
+    margin: 1% 1%;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
